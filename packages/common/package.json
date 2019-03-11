@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@babel/runtime": "^7.3.4",
     "rimraf": "^2.6.3"
   }
 }

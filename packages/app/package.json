@@ -13,7 +13,6 @@
     "react-native": "0.59.0-rc.1"
   },
   "devDependencies": {
-    "@babel/runtime": "^7.3.4",
     "@rnw/common": "1.0.0",
     "@types/jest": "^24.0.11",
     "@types/react": "^16.8.7",
