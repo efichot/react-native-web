@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "name": "react-native-web",
+  "version": "1.0.0",
+  "description": "#### Monorepo with app and web sharing the same code base (React hooks - mobx - react-router) with react-native-web project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efichot/react-native-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efichot/react-native-web/issues"
+  },
+  "homepage": "https://github.com/efichot/react-native-web#readme",
+  "workspaces": [
+    "packages/*"
+  ]
+}

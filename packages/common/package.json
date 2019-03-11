@@ -1,0 +1,16 @@
+{
+  "name": "@rnw/common",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rimraf dist && tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/runtime": "^7.3.4",
+    "rimraf": "^2.6.3"
+  }
+}
